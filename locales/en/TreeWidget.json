@@ -1,0 +1,64 @@
+{
+  "showAll": "Show All",
+  "hideAll": "Hide All",
+  "invert": "Invert",
+  "toggle2DViews": "Toggle 2D Views",
+  "toggle3DViews": "Toggle 3D Views",
+  "label2D": "2D",
+  "label3D": "3D",
+  "models": "Models",
+  "categories": "Categories",
+  "imodelContent": "iModel Content",
+  "externalSources": "External Sources",
+  "treeview": "Tree View",
+  "noTrees": "There are no trees available for this iModel.",
+  "error": "Error",
+  "retry": "Retry",
+  "generic-error-description": "An error occurred while loading tree content.",
+  "categoriesTree": {
+    "noCategoryFound": "No category found.",
+    "noMatchingCategoryNames": "There are no category names matching your search."
+  },
+  "modelTree": {
+    "status": {
+      "visible": "Visible",
+      "hidden": "Hidden",
+      "disabled": "Disabled"
+    },
+    "tooltips": {
+      "subject": {
+        "nonSpatialView": "Active view is not spatial",
+        "atLeastOneModelVisible": "At least one model is visible",
+        "allModelsHidden": "All models are hidden"
+      },
+      "model": {
+        "nonSpatialView": "Active view is not spatial"
+      },
+      "category": {
+        "modelNotDisplayed": "Can't control category display if model is not displayed",
+        "displayedThroughPerModelOverride": "Per-model category override set to 'Show'",
+        "hiddenThroughPerModelOverride": "Per-model category override set to 'Hide'",
+        "displayedThroughCategorySelector": "Category display enabled through category selector",
+        "hiddenThroughCategorySelector": "Category display disabled through category selector"
+      },
+      "element": {
+        "modelNotDisplayed": "Can't control element display if model is not displayed",
+        "hiddenThroughNeverDrawnList": "Element(s) in \"never drawn\" list",
+        "displayedThroughAlwaysDrawnList": "Element(s) in \"always drawn\" list",
+        "hiddenDueToOtherElementsExclusivelyAlwaysDrawn": "Other elements in \"exclusively always drawn\" list",
+        "hiddenThroughCategory": "Category not displayed"
+      }
+    },
+    "noModelFound": "No model found.",
+    "noMatchingModelNames": "There are no model names matching your search."
+  },
+  "searchBox": {
+    "searchForSomething": "Search for something",
+    "search": "Search...",
+    "tree": "Tree search",
+    "open": "Open",
+    "close": "Close",
+    "next": "Next",
+    "previous": "Previous"
+  }
+}
